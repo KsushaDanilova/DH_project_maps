@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0b31ef",
+        "marker-size": "medium",
+        "marker-symbol": "rail-light",
+        "facts": "Это единственный дом в Москве, где будущий поэт был официально зарегистрирован во время проживания в столице.",
+        "label": "Дом Есенина",
+        "person": "Есенин"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.630780935287476,
+          55.726626739313176
+        ]
+      }
+    }
+  ]
+}
